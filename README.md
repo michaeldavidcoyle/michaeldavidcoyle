@@ -34,4 +34,4 @@ Full-Stack Web Developer. *Always learning.*
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaeldavidcoyle&&show_icons=true&theme=dark" height="200">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaeldavidcoyle&&show_icons=true&theme=dark" width="300">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaeldavidcoyle&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michaeldavidcoyle&theme=dark&hide_border=false&mode=weekly)](https://git.io/streak-stats)
